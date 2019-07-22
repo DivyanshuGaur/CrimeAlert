@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Crimap</string>
+
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main3">Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Admin</string>
+    <string name="nav_header_subtitle">gpsi2019@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello">Hello</string>
+    <dimen name="count">10dp</dimen>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+</resources>

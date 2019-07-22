@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <sub-menu>legends</sub-menu>
+
+
+    <item android:title="Map Legends">
+        <menu>
+            <item
+                android:id="@+id/r"
+                android:icon="@drawable/ic_red2"
+                android:title="RAPE"/>
+            <item
+                android:id="@+id/r1"
+                android:icon="@drawable/ic_green"
+                android:title="KIDNAP" />
+            <item
+                android:id="@+id/r2"
+                android:icon="@drawable/ic_blue"
+                android:title="THEFT" />
+            <item
+                android:id="@+id/r3"
+                android:icon="@drawable/ic_magenta"
+                android:title="ROBBERY" />
+            <item
+                android:id="@+id/r4"
+                android:icon="@drawable/ic_yellow"
+                android:title="ASSAULT" />
+        </menu>
+    </item>
+
+    <item android:title="">
+        <menu>
+            <item
+
+                android:title="REPORT"
+                android:id="@+id/rep"/>
+        </menu>
+    </item>
+    <item android:title="">
+        <menu>
+            <item
+
+                android:title="LOGOUT"
+                android:id="@+id/lout"
+                android:icon="@drawable/ic_logout"/>
+        </menu>
+    </item>
+
+
+
+
+</menu>
